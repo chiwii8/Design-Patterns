@@ -10,6 +10,6 @@ package asr;
  */
 
 public interface Vehicle {
-    public String Drive();
-    public String Parking();
+    public String drive();
+    public String parking();
 }

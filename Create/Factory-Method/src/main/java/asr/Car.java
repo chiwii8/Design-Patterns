@@ -10,12 +10,13 @@ package asr;
  */
 
 public class Car implements Vehicle{
-    public String Drive(){
+    @Override
+    public String drive(){
         return "I'm driving my new car.";
     }
 
     @Override
-    public String Parking() {
+    public String parking() {
         return "My car is parked";
     }
 }

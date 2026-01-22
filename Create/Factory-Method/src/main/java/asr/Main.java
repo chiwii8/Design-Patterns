@@ -33,9 +33,9 @@ public class Main {
         char vehicleStatus = scanner.next().charAt(0);
 
         if(vehicleStatus == 'd')
-            System.out.println(vehicle.Drive());
+            System.out.println(vehicle.drive());
         else
-            System.out.println(vehicle.Parking());
+            System.out.println(vehicle.parking());
 
     }
 }

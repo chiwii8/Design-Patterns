@@ -12,12 +12,12 @@ package asr;
 public class Motorcycle implements Vehicle{
 
     @Override
-    public String Drive() {
+    public String drive() {
         return "I'm driving my new Motorcycle.";
     }
 
     @Override
-    public String Parking() {
+    public String parking() {
         return "My Motorcycle is parked";
     }
 }
