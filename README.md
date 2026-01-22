@@ -17,8 +17,8 @@ The main objetive is learn, review and have references about how to do it and im
 
 Focused in the form of create objects
 
-- Singleton
-- Factory Method
+- [Singleton](Create/Singleton/README.md)
+- [Factory Method](Create/Factory-Method/README.md)
 - Abstract Factory
 - Builder
 - Prototype
@@ -36,3 +36,14 @@ Focused in the composition of classes and objects
 - Proxy
 
 ### Behavior Pattern
+
+- Chain of Responsability
+- Command
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Templated Method
+- Visitor
