@@ -1,9 +1,7 @@
-import com.sun.tools.javac.Main;
-
 /**
  * MainConfig.java
  * <p>
- * Description: [Add the description of the class]
+ * Description: Configuration enviroment
  *
  * @author aleja
  * @since 01/01/2026

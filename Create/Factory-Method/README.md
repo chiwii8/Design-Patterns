@@ -85,11 +85,11 @@ public class CreatorMotorcycle extends CreatorVehicle{
 ```java
 VehicleFactory factory = new CarFactory();
 Vehicle car = factory.createVehicle();
-car.Drive(); // Driving a car
+car.drive(); // Driving a car
 
 factory = new BikeFactory();
 Vehicle motorcycle = factory.createVehicle();
-motorcycle.Parking(); // Riding a bike
+motorcycle.parking(); // Riding a bike
 ```
 
 * The client code **does not know the concrete class**, only the interface.
