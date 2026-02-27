@@ -1,4 +1,5 @@
 import domain.Enemy;
+import domain.EnemyFactory;
 import domain.TypeEnemy;
 
 /**
@@ -18,7 +19,7 @@ public class Main {
 
 
         ///Initialize variables
-        typeEnemy = new TypeEnemy("MutantDog", "Grrrr");
+        typeEnemy = EnemyFactory.getEnemyType("MutantDog", "Grrrr");
         enemy = new Enemy(10, 3, typeEnemy);
         enemy1 = new Enemy(20, 3, typeEnemy);
         enemy2 = new Enemy(0, 0, typeEnemy);
