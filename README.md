@@ -17,33 +17,33 @@ The main objetive is learn, review and have references about how to do it and im
 
 Focused in the form of create objects
 
-- [Singleton](Create/Singleton/README.md)
-- [Factory Method](Create/Factory-Method/README.md)
-- Abstract Factory
-- Builder
-- Prototype
+- [Singleton](Create/Singleton/)
+- [Factory Method](Create/Factory-Method/)
+- [Abstract Factory](Create/Abstract-Factory/)
+- [Builder](Create/Builder/)
+- [Prototype](Create/Prototype/)
 
 ### Structural Pattern
 
 Focused in the composition of classes and objects
 
-- Adapter
-- Bridge
-- Composite
-- Decorator
-- Facade
-- FlyWeight
-- Proxy
+- [Adapter](Structure/Adapter/)
+- [Bridge](Structure/Bridge/)
+- [Composite](Structure/Composite/)
+- [Decorator](Structure/Decorator/)
+- [Facade](Structure/Facade/)
+- [FlyWeight](Structure/FlyWeight/)
+- [Proxy](Structure/Proxy/)
 
 ### Behavior Pattern
 
-- Chain of Responsability
-- Command
-- Iterator
-- Mediator
-- Memento
-- Observer
-- State
-- Strategy
-- Templated Method
-- Visitor
+- [Chain of Responsability](Behavior/ChainofResponsibility/)
+- [Command](Behavior/Command/)
+- [Iterator](Behavior/Iterator/)
+- [Mediator](Behavior/Mediator/)
+- [Memento](Behavior/Memento/)
+- [Observer](Behavior/Observer/)
+- [State](Behavior/State/)
+- [Strategy](Behavior/Strategy/)
+- [Templated Method](Behavior/TemplatedMethod/)
+- [Visitor](Behavior/Visitor/)
